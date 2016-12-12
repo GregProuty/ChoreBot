@@ -1,0 +1,41 @@
+{
+  
+  "apiKey": "YOUR API KEY",
+  "notificationTime": {
+    "hour": 9,
+    "minute": 0,
+    "dayOfWeek": 0
+  },
+  "chores": [
+    {
+      "description": "Take out trash",
+      "interval": "DAILY"
+    },
+    {
+      "description": "Wipe down counters",
+      "interval": "DAILY"
+    },
+    {
+      "description": "Run and empty dishwasher",
+      "interval": "DAILY"
+    },
+    {
+      "description": "Mop Upstairs",
+      "interval": "WEEKLY"
+    },
+    {
+      "description": "Clean Bathroom",
+      "interval": "WEEKLY"
+    },
+    {
+      "description": "Sweep Upstairs",
+      "interval": "WEEKLY"
+    }
+  ],
+  "people": [
+    {
+      "name": "Greg",
+      "userKey": "YOUR USER KEY"
+    }
+  ]
+}
